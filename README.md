@@ -31,10 +31,8 @@ The Obstacle Avoiding Car is designed to move forward until it detects an obstac
 
     Add Servo Control: Uncomment the Servo library and implement advanced maneuvers.
     Obstacle Avoidance: Program the robot to turn when it detects an obstacle.
-    Remote Control: Integrate Bluetooth or Wi-Fi for remote operation.
 
-
-Feel free to modify the code, experiment with different components, and share your creations! The world of robotics is vast and full of possibilities. Happy coding and building!
+Feel free to modify the code, experiment with different components, and share your code! The world of robotics is vast and full of possibilities. Happy coding and building!
 
 📄 License
 
