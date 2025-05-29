@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/kakarot/.arduino15/packages/arduino/hardware/renesas_uno/1.4.1/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/kakarot/.arduino15/packages/arduino/hardware/renesas_uno/1.4.1/variants/UNOWIFIR4"
+  },
+  {
+    "Sourcefile": "/home/kakarot/Code/projects/arduino/obstacle_avoiding_car/build/sketch/obstacle_avoiding_car.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
